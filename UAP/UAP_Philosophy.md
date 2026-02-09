@@ -13,23 +13,23 @@ The central focus of this philosophy is **Time Saving**.
 
 ### 1. 👤 The User USES (Users)
 The user needs to deliver results and doesn't have time to figure out how the system works internally.
-**The Focus**: The user simply opens and uses it. They don't edit text files, configure ports, or resolve conflicts. If they need to use a feature, it's simply there and can be enabled through the interface, ready for use.
-**In case of Error**: The user receives an error message identifying the problem.
-**The Gain**: Total focus on work, without technical interruptions.
+* **The Focus**: The user simply opens and uses it. They don't edit text files, configure ports, or resolve conflicts. If they need to use a feature, it's simply there and can be enabled through the interface, ready for use.
+* **In case of Error**: The user receives an error message identifying the problem.
+* **The Gain**: Total focus on work, without technical interruptions.
 
 ### 2. 🔑 The Administrator ADMINISTERS (Administrators)
 The administrator decides the direction of the environment; they are not a command typist or a syntax reviewer.
-**The Focus:** The administrator should not waste time memorizing complex parameters (-x, -Y, or -zn), struggling with file
+* **The Focus:** The administrator should not waste time memorizing complex parameters (-x, -Y, or -zn), struggling with file
 indentation, with semicolons, or hunting for errors in JSON and YAML keys.
-**The Action:** The system should present the need and the solution. The administrator only authorizes. If the environment
+* **The Action:** The system should present the need and the solution. The administrator only authorizes. If the environment
 needs a technical adjustment, the system itself seeks to provide it, only requesting the administrator's approval.
-**The Gain:** Quick, error-free decisions, strategic management without the fatigue of manual work and searches for meaningless parameters.
+* **The Gain:** Quick, error-free decisions, strategic management without the fatigue of manual work and searches for meaningless parameters.
 
 ### 3. 💻 The Program PROGRAMS (Programs)
 The program is the technical specialist. It is the one that must understand syntax, permissions, and configuration.
-**The Focus:** The program is exclusively responsible for programming itself and its surroundings. It knows what permissions it needs and what files it must create.
-**The Action:** Instead of issuing an error and waiting for a human to fix it, the program identifies what is missing, prepares the fix, and requests permission from the Administrator to apply it.
-**The Gain:** Perfect installations, standardized environments, and zero human error.
+* **The Focus:** The program is exclusively responsible for programming itself and its surroundings. It knows what permissions it needs and what files it must create.
+* **The Action:** Instead of issuing an error and waiting for a human to fix it, the program identifies what is missing, prepares the fix, and requests permission from the Administrator to apply it.
+* **The Gain:** Perfect installations, standardized environments, and zero human error.
 
 ---
 
