@@ -45,8 +45,9 @@ In the traditional model, hours are lost reading manuals to find out how to conf
 
 Projects with this seal respect your time. They were made for those who want to work, not for those who want to configure.
 
-> ![UAP Level Badge](https://googleusercontent.com/image_generation_content/1)
-> **[⚡ UAP Level: User USES | Administrator ADMINISTERS | Program PROGRAMS]**
+![UAP Level Badge](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png)
+
+**[⚡ UAP Level ]**
 
 ---
 
@@ -98,8 +99,9 @@ No modelo tradicional, perde-se horas lendo manuais para descobrir como configur
 
 Projetos com este selo respeitam o seu tempo. Eles foram feitos para quem quer trabalhar, não para quem quer configurar.
 
-> ![UAP Level Badge](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png)
-> **[⚡ UAP Level: Usuário USA | Administrador ADMINISTRA | Programa PROGRAMA]**
+![UAP Level Badge](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png)
+
+**[⚡ UAP Level ]**
 
 ---
 *Filosofia criada para converter tempo de configuração em tempo de produção.*
