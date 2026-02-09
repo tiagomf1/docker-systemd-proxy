@@ -37,3 +37,8 @@ RUN curl -sSL [https://raw.githubusercontent.com/seu-usuario/proxy-systemctl/mai
 
 # 2. Inicialização (OBRIGATORIAMENTE a última linha do Dockerfile)
 CMD ["/usr/bin/supervisord", "-n", "-c", "/etc/supervisor/supervisord.conf"]
+```
+
+<a href="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/UAP_Philosophy.md">
+  <img src="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png?raw=true" width="200" alt="UAP Level Badge"> 80%
+</a>
