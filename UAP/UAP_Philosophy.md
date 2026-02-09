@@ -1,5 +1,5 @@
 # ⚡ UAP Philosophy (Users, Administrators, Programs)
-![UAP Full Shield](https://googleusercontent.com/image_generation_content/0)
+![UAP Full Shield](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_g.png)
 
 ### Where software works so people can produce
 
@@ -90,7 +90,7 @@ No modelo tradicional, perde-se horas lendo manuais para descobrir como configur
 
 Projetos com este selo respeitam o seu tempo. Eles foram feitos para quem quer trabalhar, não para quem quer configurar.
 
-> ![UAP Level Badge](https://googleusercontent.com/image_generation_content/1)
+> ![UAP Level Badge](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png)
 > **[⚡ UAP Level: Usuário USA | Administrador ADMINISTRA | Programa PROGRAMA]**
 
 ---
