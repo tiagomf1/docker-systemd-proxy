@@ -1,4 +1,4 @@
-# Proxy Systemctl for Docker (Zero-Manual Edition)
+# Proxy Systemctl for Docker
 
 O **Proxy Systemctl** é uma solução avançada para ambientes Docker onde o `systemd` está ausente. Ele atua como um intermediário inteligente (proxy) que intercepta chamadas ao comando `systemctl`, traduz as definições de serviços nativas do Linux (`.service`) e as gerencia automaticamente via **Supervisor**.
 
