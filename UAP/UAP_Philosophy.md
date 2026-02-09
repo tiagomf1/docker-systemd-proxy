@@ -49,6 +49,14 @@ Projects with this seal respect your time. They were made for those who want to 
 
 **[⚡ UAP Level ]**
 
+Whats add the UAP Level in .md of your project?
+
+```uapbadge
+<a href="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/UAP_Philosophy.md">
+  <img src="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png?raw=true" width="200" alt="UAP Level Badge"> Uap_%_of_your_project
+</a>
+```
+
 ---
 
 # ⚡ A Filosofia UAP (Usuários, Administradores, Programas)
@@ -102,7 +110,14 @@ Projetos com este selo respeitam o seu tempo. Eles foram feitos para quem quer t
 ![UAP Level Badge](https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png)
 
 **[⚡ UAP Level ]**
+---
 
+Deseja adicionar ao md do seu projeto?
+```uapbadge
+<a href="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/UAP_Philosophy.md">
+  <img src="https://github.com/tiagomf1/docker-systemd-proxy/blob/master/UAP/uap_p.png?raw=true" width="200" alt="UAP Level Badge"> Uap_%_of_your_project
+</a>
+```
 ---
 *Filosofia criada para converter tempo de configuração em tempo de produção.*
 
